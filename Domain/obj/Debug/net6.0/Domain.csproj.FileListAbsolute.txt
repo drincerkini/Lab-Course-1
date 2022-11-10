@@ -1,0 +1,120 @@
+C:\Users\dcerk\Desktop\Reactivities\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\dcerk\Desktop\Reactivities\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\dcerk\Desktop\Reactivities\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\dcerk\Desktop\Reactivities\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\dcerk\Desktop\Reactivities\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcerk\Desktop\Reactivities\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\dcerk\Desktop\Reactivities\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\dcerk\Desktop\Reactivities\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\dcerk\Desktop\Reactivities\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\dcerk\Desktop\Reactivities\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\dcerk\Desktop\Reactivities\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\dcerk\Desktop\Reactivities\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\Rina\Desktop\Reactivities\Reactivities\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Rina\Desktop\Reactivities\Reactivities\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Rina\Desktop\Reactivities\Reactivities\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Rina\Desktop\Reactivities\Reactivities\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Rina\Desktop\Reactivities\Reactivities\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rina\Desktop\Reactivities\Reactivities\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Rina\Desktop\Reactivities\Reactivities\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Rina\Desktop\Reactivities\Reactivities\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rina\Desktop\Reactivities\Reactivities\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Rina\Desktop\Reactivities\Reactivities\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Rina\Desktop\Reactivities\Reactivities\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Rina\Desktop\Reactivities\Reactivities\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\Rina\Desktop\Reactivities\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Rina\Desktop\Reactivities\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Rina\Desktop\Reactivities\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Rina\Desktop\Reactivities\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Rina\Desktop\Reactivities\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rina\Desktop\Reactivities\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Rina\Desktop\Reactivities\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Rina\Desktop\Reactivities\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rina\Desktop\Reactivities\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Rina\Desktop\Reactivities\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Rina\Desktop\Reactivities\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Rina\Desktop\Reactivities\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\fatli\Documents\GitHub\LabCourse1\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\fatli\Documents\GitHub\LabCourse1\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\fatli\Documents\GitHub\LabCourse1\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\fatli\Documents\GitHub\LabCourse1\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\fatli\Documents\GitHub\LabCourse1\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatli\Documents\GitHub\LabCourse1\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\fatli\Documents\GitHub\LabCourse1\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\fatli\Documents\GitHub\LabCourse1\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\fatli\Documents\GitHub\LabCourse1\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\fatli\Documents\GitHub\LabCourse1\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\fatli\Documents\GitHub\LabCourse1\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\fatli\Documents\GitHub\LabCourse1\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\dcerk\Desktop\g\LabCourse1\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\dcerk\Desktop\g\LabCourse1\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\dcerk\Desktop\g\LabCourse1\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\dcerk\Desktop\g\LabCourse1\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\dcerk\Desktop\g\LabCourse1\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcerk\Desktop\g\LabCourse1\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\dcerk\Desktop\g\LabCourse1\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\dcerk\Desktop\g\LabCourse1\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\dcerk\Desktop\g\LabCourse1\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\dcerk\Desktop\g\LabCourse1\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\dcerk\Desktop\g\LabCourse1\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\dcerk\Desktop\g\LabCourse1\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\Rina\Desktop\GitHuubb\LabCourse1\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Rina\Desktop\GitHuubb\LabCourse1\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Rina\Desktop\GitHuubb\LabCourse1\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Rina\Desktop\GitHuubb\LabCourse1\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Rina\Desktop\GitHuubb\LabCourse1\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rina\Desktop\GitHuubb\LabCourse1\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Rina\Desktop\GitHuubb\LabCourse1\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Rina\Desktop\GitHuubb\LabCourse1\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rina\Desktop\GitHuubb\LabCourse1\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Rina\Desktop\GitHuubb\LabCourse1\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Rina\Desktop\GitHuubb\LabCourse1\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Rina\Desktop\GitHuubb\LabCourse1\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\dcerk\Desktop\labkursi\LabCourse1\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\dcerk\Desktop\labkursi\LabCourse1\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\dcerk\Desktop\labkursi\LabCourse1\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\dcerk\Desktop\labkursi\LabCourse1\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\dcerk\Desktop\labkursi\LabCourse1\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcerk\Desktop\labkursi\LabCourse1\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\dcerk\Desktop\labkursi\LabCourse1\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\dcerk\Desktop\labkursi\LabCourse1\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\dcerk\Desktop\labkursi\LabCourse1\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\dcerk\Desktop\labkursi\LabCourse1\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\dcerk\Desktop\labkursi\LabCourse1\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\dcerk\Desktop\labkursi\LabCourse1\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\COMPUTER SHOP\Desktop\clone\LabCourse1\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\COMPUTER SHOP\Desktop\clone\LabCourse1\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\COMPUTER SHOP\Desktop\clone\LabCourse1\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\COMPUTER SHOP\Desktop\clone\LabCourse1\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\COMPUTER SHOP\Desktop\clone\LabCourse1\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUTER SHOP\Desktop\clone\LabCourse1\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\COMPUTER SHOP\Desktop\clone\LabCourse1\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\COMPUTER SHOP\Desktop\clone\LabCourse1\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER SHOP\Desktop\clone\LabCourse1\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\COMPUTER SHOP\Desktop\clone\LabCourse1\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\COMPUTER SHOP\Desktop\clone\LabCourse1\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\COMPUTER SHOP\Desktop\clone\LabCourse1\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\Rina\Desktop\clone folder\LabCourse1\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Rina\Desktop\clone folder\LabCourse1\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Rina\Desktop\clone folder\LabCourse1\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Rina\Desktop\clone folder\LabCourse1\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Rina\Desktop\clone folder\LabCourse1\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rina\Desktop\clone folder\LabCourse1\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Rina\Desktop\clone folder\LabCourse1\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Rina\Desktop\clone folder\LabCourse1\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rina\Desktop\clone folder\LabCourse1\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Rina\Desktop\clone folder\LabCourse1\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Rina\Desktop\clone folder\LabCourse1\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Rina\Desktop\clone folder\LabCourse1\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\COMPUTER SHOP\Desktop\Lab-Course-1\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\COMPUTER SHOP\Desktop\Lab-Course-1\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\COMPUTER SHOP\Desktop\Lab-Course-1\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\COMPUTER SHOP\Desktop\Lab-Course-1\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\COMPUTER SHOP\Desktop\Lab-Course-1\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUTER SHOP\Desktop\Lab-Course-1\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\COMPUTER SHOP\Desktop\Lab-Course-1\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\COMPUTER SHOP\Desktop\Lab-Course-1\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER SHOP\Desktop\Lab-Course-1\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\COMPUTER SHOP\Desktop\Lab-Course-1\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\COMPUTER SHOP\Desktop\Lab-Course-1\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\COMPUTER SHOP\Desktop\Lab-Course-1\Domain\obj\Debug\net6.0\ref\Domain.dll
